@@ -1,0 +1,19 @@
+Name: Joshua Smith
+Student ID: 1912591
+Assignment #: 5
+
+Comments:
+Instructions:
+Type the directories like, "/home/cpsc/JavaStuff/Assignments"
+Basically, you need the whole path name for the file directories unless you are searching for the file
+
+
+// For each directory, start with /home/cpsc/...
+
+// Small Issues:
+
+// 1 - Method 5 puts null at the end of each file
+// 2 - You need to type in the full absolute path name of each directory/subdirectory/file you are looking for
+// For example, use: /home/cpsc/JavaStuff/Assignments
+// 3 - Merged file content isn't logged, but if the method is successfull then a "method success" is written to the file
+
